@@ -1002,7 +1002,6 @@ containing a value of this type.
         public static final int beginning=0x7f060011;
         public static final int checkbox=0x7f06002d;
         public static final int collapseActionView=0x7f06000d;
-        public static final int container=0x7f06003c;
         public static final int default_activity_button=0x7f060028;
         public static final int dialog=0x7f06000e;
         public static final int disableHome=0x7f060008;
@@ -1011,6 +1010,7 @@ containing a value of this type.
         public static final int end=0x7f060013;
         public static final int expand_activities_button=0x7f060026;
         public static final int expanded_menu=0x7f06002c;
+        public static final int helloMoonFragment=0x7f06003c;
         public static final int hellomoon_playButton=0x7f06003d;
         public static final int hellomoon_stopButton=0x7f06003e;
         public static final int home=0x7f060014;
@@ -1099,7 +1099,7 @@ containing a value of this type.
         public static final int abc_popup_menu_item_layout=0x7f030014;
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
-        public static final int activity_main=0x7f030017;
+        public static final int activity_hello_moon=0x7f030017;
         public static final int fragment_hello_moon=0x7f030018;
         public static final int fragment_main=0x7f030019;
         public static final int support_simple_spinner_dropdown_item=0x7f03001a;

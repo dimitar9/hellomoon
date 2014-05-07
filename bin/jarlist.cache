@@ -1,5 +1,7 @@
 # cache for current jar dependency. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+1398648112000 343731 3d62997c154488738d1367406fb7ac6074f992e2 /home/paul/workspace/appcompat_v7_2/libs/android-support-v7-appcompat.jar
+1398648112000 343731 3d62997c154488738d1367406fb7ac6074f992e2 /home/paul/workspace/appcompat_v7/libs/android-support-v7-appcompat.jar
 1398648112000 621451 5896b0a4e377ac4242eb2bc785220c1c4fc052f4 /home/paul/workspace/appcompat_v7/libs/android-support-v4.jar
-1399262797000 621451 5896b0a4e377ac4242eb2bc785220c1c4fc052f4 /home/paul/workspace/HelloMoon/libs/android-support-v4.jar
+1398648112000 621451 5896b0a4e377ac4242eb2bc785220c1c4fc052f4 /home/paul/workspace/appcompat_v7_2/libs/android-support-v4.jar
